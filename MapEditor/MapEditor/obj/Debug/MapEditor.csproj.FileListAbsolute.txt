@@ -1,0 +1,11 @@
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\obj\Debug\MapEditor.Form1.resources
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\obj\Debug\MapEditor.Form2.resources
+C:\Users\rkaushik\Documents\aftershockrepo2\MapEditor\MapEditor\obj\Debug\MapEditor.Form3.resources
